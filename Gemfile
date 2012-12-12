@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.9'
+gem 'psych', '1.3.4'
 
 
 gem 'pg', '0.12.2'
